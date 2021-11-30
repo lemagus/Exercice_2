@@ -7,3 +7,4 @@
 - J'ai une image de chevreuil
 - Elle est centrée
 - Le style est dans index.html
+- Le background est en beige
